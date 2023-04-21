@@ -1,2 +1,1 @@
-1. npm install dotenv
-2. npm install @discordjs/rest
+1. npm install @discordjs/rest
