@@ -1,3 +1,4 @@
 1. npm install discord.js
 2. npm init
-3. node .
+3. npm install dotenv
+4. node .
